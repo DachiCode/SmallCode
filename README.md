@@ -1,2 +1,2 @@
 # SmallCode
-I hate myself
+couldn't be possible without spaghetti and stackoverflow 💡

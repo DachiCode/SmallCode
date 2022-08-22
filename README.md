@@ -1,2 +1,2 @@
 # SmallCode
-Small project via spaghetti.code
+I hate myself
